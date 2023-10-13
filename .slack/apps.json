@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T3W8E04DV": {
+      "app_id": "A060ML4BUVD",
+      "IsDev": false,
+      "team_domain": "pisito",
+      "team_id": "T3W8E04DV"
+    }
+  },
+  "default": "pisito"
+}
